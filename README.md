@@ -1,6 +1,6 @@
-# Bible Translation Application
+# Translation Application
 
-Welcome to the Bible Translation Application project! This repository contains the source code, datasets, and documentation for a web-based application designed to translate Bible texts into low-resource Cameroonian languages. Our goal is to leverage advanced Natural Language Processing (NLP) techniques and community-driven research to support linguistic diversity and language preservation.
+Welcome to the Translation Application project! This repository contains the source code, datasets, and documentation for a web-based application designed to translate Bible texts into low-resource Cameroonian languages. Our goal is to leverage advanced Natural Language Processing (NLP) techniques and community-driven research to support linguistic diversity and language preservation.
 
 ---
 
@@ -10,7 +10,7 @@ The Bible Translation Application is a scalable platform that integrates **Huggi
 
 Key features include:
 
-- **Multilingual Translation:** Translates Bible texts from English or French into six Cameroonian languages.
+- **Multilingual Translation:** Translates texts from English or French into two Cameroonian languages.
 - **Custom Models:** Machine learning models trained specifically for each language.
 - **Community Input:** Incorporates input from native speakers to ensure cultural relevance and accuracy.
 - **Web-Based Interface:** A user-friendly platform for text input, translation, and output display.
@@ -55,10 +55,3 @@ Many low-resource languages lack digital tools to preserve and promote their use
 ### 4. Cloud Infrastructure
 - Hosting datasets and models on Hugging Face.
 - Scalable architecture for API calls and translations.
-
-
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo-name/bible-translation-app.git
