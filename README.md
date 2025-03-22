@@ -6,7 +6,7 @@ Welcome to the Translation Application project! This repository contains the sou
 
 ## Overview
 
-The Bible Translation Application is a scalable platform that integrates **Hugging Face Transformers** and a microservice-based architecture to facilitate accurate and accessible Bible translations. The project focuses on supporting low-resource languages such as **Bafia** and **Fulfulde (Adamaoua dialect)**
+The Translation Application is a scalable platform that integrates **Hugging Face Transformers** and a microservice-based architecture to facilitate accurate and accessible Bible translations. The project focuses on supporting low-resource languages such as **Bafia** and **Fulfulde (Adamaoua dialect)**
 
 Key features include:
 
